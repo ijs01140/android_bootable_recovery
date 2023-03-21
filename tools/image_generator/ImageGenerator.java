@@ -122,9 +122,9 @@ public class ImageGenerator {
                     put("hi", "NotoSansDevanagariUI-VF");
                     put("hy", "NotoSansArmenian-VF");
                     put("iw", "NotoSansHebrew-Regular");
-                    put("ja", "NotoSansCJK-Regular");
+                    put("ja", "NotoSansCJK-VF.otf");
                     put("ka", "NotoSansGeorgian-VF");
-                    put("ko", "NotoSansCJK-Regular");
+                    put("ko", "NotoSansCJK-VF.otf");
                     put("km", "NotoSansKhmerUI-Regular");
                     put("kn", "NotoSansKannadaUI-VF");
                     put("lo", "NotoSansLaoUI-Regular");
@@ -139,7 +139,7 @@ public class ImageGenerator {
                     put("te", "NotoSansTeluguUI-VF");
                     put("th", "NotoSansThaiUI-Regular");
                     put("ur", "NotoNaskhArabicUI-Regular");
-                    put("zh", "NotoSansCJK-Regular");
+                    put("zh", "NotoSansCJK-VF.otf"));
                 }
             };
 
