@@ -123,9 +123,9 @@ public class ImageGenerator {
                 entry("hi", "NotoSansDevanagariUI-VF"),
                 entry("hy", "NotoSansArmenian-VF"),
                 entry("iw", "NotoSansHebrew-Regular"),
-                entry("ja", "NotoSansCJK-Regular"),
+                entry("ja", "NotoSansCJK-VF.otf"),
                 entry("ka", "NotoSansGeorgian-VF"),
-                entry("ko", "NotoSansCJK-Regular"),
+                entry("ko", "NotoSansCJK-VF.otf"),
                 entry("km", "NotoSansKhmerUI-Regular"),
                 entry("kn", "NotoSansKannadaUI-VF"),
                 entry("lo", "NotoSansLaoUI-Regular"),
@@ -140,7 +140,7 @@ public class ImageGenerator {
                 entry("te", "NotoSansTeluguUI-VF"),
                 entry("th", "NotoSansThaiUI-Regular"),
                 entry("ur", "NotoNaskhArabicUI-Regular"),
-                entry("zh", "NotoSansCJK-Regular"));
+                entry("zh", "NotoSansCJK-VF.otf"));
 
     // Languages that write from right to left.
     private static final Set<String> RTL_LANGUAGE =
