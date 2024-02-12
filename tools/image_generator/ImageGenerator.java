@@ -139,7 +139,7 @@ public class ImageGenerator {
                     put("te", "NotoSansTeluguUI-VF");
                     put("th", "NotoSansThaiUI-Regular");
                     put("ur", "NotoNaskhArabicUI-Regular");
-                    put("zh", "NotoSansCJK-VF.otf"));
+                    put("zh", "NotoSansCJK-VF.otf");
                 }
             };
 
